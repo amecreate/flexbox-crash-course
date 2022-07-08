@@ -22,3 +22,9 @@ h1,
 h2 {
     margin-bottom: 15px;
 }
+
+.container {
+    max-width: 1100px;
+    /* margin 0 top and bottom, auto left and right, will be in the center of the screen */
+    margin: 0 auto;
+}
