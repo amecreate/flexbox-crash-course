@@ -40,3 +40,8 @@ ul {
     color: white;
     height: 60px;
 }
+
+.logo {
+    font-size: x-large;
+    font-weight: bold;
+}
