@@ -117,3 +117,8 @@ ul {
 .box svg {
     margin-right: 10px;
 }
+
+/* style only applies when screen size is under 768px */
+@media(max-width: 768px) {
+    
+}
