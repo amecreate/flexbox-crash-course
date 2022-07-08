@@ -120,5 +120,13 @@ ul {
 
 /* style only applies when screen size is under 768px */
 @media(max-width: 768px) {
-    
+    .header .container {
+        flex-direction: column;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .boxes .container {
+        display: block;
+    }
 }
