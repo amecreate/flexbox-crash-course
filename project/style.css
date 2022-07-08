@@ -113,3 +113,7 @@ ul {
     /* padding 15px top and bottom, 20px left and right */
     padding: 15px 20px;
 }
+
+.box svg {
+    margin-right: 10px;
+}
