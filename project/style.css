@@ -77,5 +77,20 @@ ul {
 .header {
     background-color: #0151cc;
     color: #fff;
-    min-height: ;
+    min-height: 400px;
+}
+
+.header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.header img {
+    max-width: 400px;
+}
+
+.header .container {
+    display: flex;
+    align-items: center;
 }
