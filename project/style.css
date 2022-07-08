@@ -53,6 +53,10 @@ ul {
     font-weight: bold;
 }
 
+.navbar a:hover {
+    color: lightblue;
+}
+
 .navbar .container {
     /* flex items are the immediate children of the flexbox container*/
     display: flex;
