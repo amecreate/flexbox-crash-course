@@ -46,6 +46,13 @@ ul {
     font-weight: bold;
 }
 
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 .navbar .container {
     /* flex items are the immediate children of the flexbox container*/
     display: flex;
