@@ -98,4 +98,10 @@ ul {
 
 .boxes .container {
     display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    /* set flex-grow to 1, which will make the items take the same space aross the entire width of the screen */
+    flex: 1;
 }
