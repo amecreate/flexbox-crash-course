@@ -12,7 +12,11 @@
     display: flex;
     flex-direction: column;
     background-color: #f4f4f4;
+    /* Justify-content is always on the main axis */
+    /* if flex-direction: column, meaning vertical y axis */
     justify-content: space-between;
+    /* align-items is always on the cross axis */
+    /* In flex-direction: column, means algin-items is on x axis */
     align-items: center;
 
 }
