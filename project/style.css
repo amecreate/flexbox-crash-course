@@ -59,4 +59,13 @@ ul {
     /* spread the logo and a tags to both ends */
     justify-content: space-between;
     align-items: center;
+    height: 100%;
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar ul li {
+    margin-left: 20px;
 }
