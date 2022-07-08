@@ -41,7 +41,12 @@ ul {
     height: 60px;
 }
 
-.logo {
+.navbar .logo {
     font-size: x-large;
     font-weight: bold;
+}
+
+.navbar .container {
+    /* flex items are the immediate children of the flexbox container*/
+    display: flex;
 }
