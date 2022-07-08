@@ -18,7 +18,7 @@
 
  .item {
      /* flex grow, flex shrink, flex basis */
-     flex: 1 0 100px;
+     flex: 1;
      height: 100px;
      background: #254de4;
      color: #fff;
