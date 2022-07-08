@@ -30,3 +30,13 @@ h2 {
     /* padding on left and right */
     padding: 0 30px;
 }
+
+ul {
+    list-style-type: none;
+}
+
+.navbar {
+    background: #3474e6;
+    color: white;
+    height: 60px;
+}
